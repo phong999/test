@@ -1,5 +1,5 @@
 <?php
 
-echo "start02";
+echo "start02"
 
  ?>
